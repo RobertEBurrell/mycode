@@ -9,3 +9,5 @@ What things you need to install the sorftware and how to install them. For now, 
 ## Authors
 
 * **BigRob** - *Initial Work* - [GetAtMe]
+
+Learn how to Version Control Projects with Git.
